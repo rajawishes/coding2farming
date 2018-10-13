@@ -1,0 +1,37 @@
+CACHE MANIFEST
+
+CACHE:
+# Offline cache 
+# version v1
+# html files
+index.html
+
+# css files
+assets/library.css
+assets/custom.css
+
+# js files
+assets/library.js
+assets/components.js
+assets/dosing.js
+
+# images
+assets/maven-header-logo.png
+assets/Pill.png
+assets/Tablet1.png
+assets/Tablets4.png
+assets/Tablets6.png
+assets/white_arrow_right.png
+assets/merck_logo-splash.png
+assets/Dosing3.png
+assets/Dosing2.png
+
+# pdf
+assets/Mavenclad-PI.PDF
+
+# favicons
+favicons/favicon.ico
+favicons/apple-touch-icon.png
+
+NETWORK:
+*
