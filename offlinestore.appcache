@@ -4,10 +4,9 @@ CACHE:
 # Offline cache 
 # version v1
 # html files
-testerror.html
 
 # cache event hanlder
-logCacheEvents.js
+#logCacheEvents.js
 
 # css files
 assets/library.css
