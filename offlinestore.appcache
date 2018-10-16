@@ -4,7 +4,9 @@ CACHE:
 # Offline cache 
 # version v1
 # html files
-index.html
+
+# cache event hanlder
+logCacheEvents.js
 
 # css files
 assets/library.css
